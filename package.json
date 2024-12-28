@@ -1,0 +1,7 @@
+{
+  "name": "crypto-mt4-server",
+  "private": true,
+  "scripts": {
+    "start": "python3 server.py"
+  }
+}
